@@ -8,6 +8,9 @@ export default function Home() {
       </header>
       <main className="flex flex-col gap-[32px] row-start-2 sm:items-start">
         Page created as note of the NextJS API features
+        <br />
+        All the example are in the app/api folder. NextJS uses the routing roles
+        for API as well as it does for the pages
       </main>
     </div>
   );
